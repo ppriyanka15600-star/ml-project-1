@@ -73,7 +73,7 @@ python spam_detection.py
 ---
 
 👩‍💻 Author
-Priyanka Periyasamy
+
 
 Priyanka Periyasamy 
  
